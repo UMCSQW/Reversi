@@ -1,0 +1,39 @@
+TEST BOARD 1
+4 4 W
+BBBB
+WB  
+WBB 
+ WBB
+
+TEST BOARD 2
+8 8 B
+        
+        
+        
+   BW   
+   WB   
+        
+        
+        
+
+TEST BOARD 3
+8 8 W
+        
+        
+        
+   BW   
+   WB   
+        
+        
+        
+
+TEST BOARD 4
+8 8 B
+    W   
+    WW  
+  WWWWWB
+  WWWW B
+  WWW  B
+        
+        
+        
