@@ -1,6 +1,4 @@
 //------------------------------------------------
-// 
-// 
 // REMARKS   : Implement a module which finds the best move in the game Reversi
 //             The best move refers to placing next stone for the most number of gains
 //             https://en.wikipedia.org/wiki/Reversi
