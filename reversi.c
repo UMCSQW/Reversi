@@ -1,6 +1,4 @@
 //------------------------------------------------
-// NAME      : QI WEN
-// STUDENT#  : 7724931
 // 
 // 
 // REMARKS   : Implement a module which finds the best move in the game Reversi
